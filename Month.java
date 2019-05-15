@@ -1,7 +1,8 @@
-package opt3;
+package Opt13;
 import java.util.Scanner;
 public class Month{
-	private static String[] monthArray = {	"January", 
+	private static String[] monthArray = {	
+							"January", 
 							"February", 
 							"March", 
 							"April", 
