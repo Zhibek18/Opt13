@@ -1,4 +1,5 @@
-package Opt13;
+package Opt13.kakimzhanova.opt3.month;
+
 import java.util.Scanner;
 public class Month{
 	private static String[] monthArray = {	
